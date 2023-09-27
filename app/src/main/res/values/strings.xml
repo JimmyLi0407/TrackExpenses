@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">記帳趣</string>
+    <string name="home">首頁</string>
+    <string name="piechart">統計</string>
+    <string name="individualList">清單</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="expenses">支出</string>
+    <string name="income">收入</string>
+    <string name="foodExpenses">食</string>
+    <string name="clothingExpenses">衣</string>
+    <string name="housingExpenses">住</string>
+    <string name="transportationExpenses">行</string>
+    <string name="amount">金額:</string>
+    <string name="date">日期:</string>
+    <string name="saveButton">儲存</string>
+    <string name="clearButton">清除</string>
+    <string name="salaryIncome">薪資</string>
+    <string name="stockIncome">股票</string>
+    <string name="interestIncome">利息</string>
+    <string name="incomeTotal">總收入:</string>
+    <string name="expensesTotal">總支出:</string>
+    <string name="assetstotal">總資產:</string>
+    <string name="noData">無資料</string>
+</resources>
