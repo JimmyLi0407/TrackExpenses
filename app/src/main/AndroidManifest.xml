@@ -9,8 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme.NoActionBar">
-        <activity android:name=".SaveExpensesActivity" />
-        <activity android:name=".SaveIncomeActivity" />
+        <activity android:name=".SaveExpensesActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".SaveIncomeActivity"
+            android:screenOrientation="portrait"/>
         <activity android:name=".MainActivity"
             android:screenOrientation="portrait">
             <intent-filter>
